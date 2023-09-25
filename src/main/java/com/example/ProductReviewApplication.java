@@ -10,7 +10,7 @@ public class ProductReviewApplication {
 		
 		SpringApplication.run(ProductReviewApplication.class, args);
 		
-		System.out.println("Running");
+		
 	}
 
 }
